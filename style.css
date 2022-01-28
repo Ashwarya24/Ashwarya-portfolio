@@ -24,6 +24,7 @@
     font-family: 'Lato', sans-serif;
     font-family: 'Playfair Display', serif;
     font-size:30px;
+
 }
 .sidebar nav{
     padding:45px;
@@ -49,6 +50,7 @@ font-family: 'Playfair Display', serif;
 
 .sidebar a{
     text-decoration: none;
+    color: black;
 }
 
 .main{
