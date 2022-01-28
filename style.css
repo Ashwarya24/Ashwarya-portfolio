@@ -47,6 +47,10 @@ font-family: 'Playfair Display', serif;
 }
 
 
+.sidebar a{
+    text-decoration: none;
+}
+
 .main{
     width:90vw;
     font-size:30px;
